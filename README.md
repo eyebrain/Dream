@@ -1,5 +1,7 @@
 # <3 Dream - Advanced Granular Synthesizer for Daisy Patch
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Overview
 
 **<3 Dream** is a sophisticated real-time granular synthesizer designed for the Electro-Smith Daisy Patch hardware platform. This advanced implementation offers professional-grade granular processing with extensive MIDI control, DSP effects, and CV integration.
@@ -281,7 +283,18 @@ Developed for the Electro-Smith Daisy Patch platform using:
 
 ## License
 
-This project is released under the MIT License. See individual library licenses for dependencies.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License allows you to:
+- ✅ Use the code for personal and commercial projects
+- ✅ Modify and distribute the code
+- ✅ Include in proprietary software
+- ⚠️ Must include copyright notice and license text
+
+### Dependencies
+- **libDaisy**: MIT License
+- **DaisySP**: MIT License
+- **Electro-Smith Daisy Patch**: See manufacturer licensing
 
 ---
 
