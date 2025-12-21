@@ -6,6 +6,9 @@
 
 **<3 Dream** is a sophisticated real-time granular synthesizer designed for the Electro-Smith Daisy Patch hardware platform. This advanced implementation offers professional-grade granular processing with extensive MIDI control, DSP effects, and CV integration.
 
+- Eurorack Built
+- Musician Loved
+
 ## Hardware Requirements
 
 - **Platform**: Electro-Smith Daisy Patch
