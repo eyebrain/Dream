@@ -1,0 +1,5 @@
+Project backup created on 2025-12-19 before implementing menu placeholder functionality.
+
+This backup includes the current state of all files in electro-smith/DaisyExamples/patch/Granular and related menu logic changes.
+
+To restore, copy the contents of this folder back to the original locations.

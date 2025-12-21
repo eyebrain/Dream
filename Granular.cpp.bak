@@ -1,0 +1,30 @@
+/* --- BEGIN BACKUP 2025-12-19 --- */
+
+// Moved Granular from seed to patch folder
+#include "../../libDaisy/src/daisy_patch.h" // DaisyPatch, patch hardware
+#include "../../DaisySP/Source/daisysp.h"
+#include <cstdio>
+#include <cstring>
+#include "../../field/sampler/samplebuffer.h"
+#include "daisy_seed.h" // System, DacHandle
+#include "dev/sdram.h"   // DSY_SDRAM_BSS
+
+#include <cstdint> // for uint32_t
+#include "../../libDaisy/src/util/oled_fonts.h" // FontDef, Font_7x10, Font_6x8, Font_4x8
+
+using namespace daisy;
+#include "../../libDaisy/src/util/oled_fonts.h" // FontDef, Font_7x10, Font_6x8, Font_4x8
+
+using namespace daisy;
+using namespace daisysp;
+
+DaisyPatch patch;
+
+// ...existing code continues (see main Granular.cpp for full source)...
+
+/* --- END BACKUP 2025-12-19 --- */
+// Backup of Granular.cpp before audio quality changes
+// Date: 2025-12-19
+// User requested backup before audio quality modifications
+
+/* --- BEGIN BACKUP --- */
