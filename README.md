@@ -6,7 +6,7 @@
 
 **<3 Dream** is a sophisticated real-time granular synthesizer designed for the Electro-Smith Daisy Patch hardware platform. This advanced implementation offers professional-grade granular processing with extensive MIDI control, DSP effects, and CV integration.
 
-- Eurorack Built
+- Eurorack Build
 - Musician Loved
 
 ## Hardware Requirements
@@ -276,6 +276,16 @@ Granular/
 
 - **v1.0**: Initial release with full granular engine
 - **Current**: Advanced DSP effects, MIDI integration, CV processing
+
+## Support This Project
+
+If you find **<3 Dream** useful and want to support its continued development, consider making a donation:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/eyebrain)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/eyebrain)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/eyebrain)
+
+Your support helps maintain and improve this open-source synthesizer!
 
 ## Credits
 
