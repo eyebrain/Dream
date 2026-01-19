@@ -1,0 +1,6 @@
+@echo off
+REM Windows batch script to clean and build Granular firmware
+echo Cleaning build directory...
+if exist build rmdir /s /q build
+echo Building firmware...
+make
