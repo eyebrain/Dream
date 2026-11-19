@@ -120,6 +120,10 @@ git push -u origin main
 
 If you want, paste your remote repository URL here and I can run these commands for you (I won't handle credentials; you'll authenticate locally when required).
 
+## Contact
+
+To message **jstefani**, open a [GitHub Issue](https://github.com/eyebrain/Dream/issues) in this repository or visit their GitHub profile at [github.com/jstefani](https://github.com/jstefani).
+
 ## License
 
 This project is MIT-licensed. See the `LICENSE` file for terms.
